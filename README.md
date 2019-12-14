@@ -13,6 +13,7 @@ https://drive.google.com/open?id=1SStLhS03HvJmlg0cUyrwXV297JC-JCvN
    4. Select the region of interest to track by dragging the mouse in the "Target Model Initialization" window.
    5. Tracking results will be shown in the GUI.
    6. The HSV histogram thresholds can also be controlled by moving the Slidebars of HSV Thresholding Window.
+   7. Switch between MeanShift and CamShift: Click anywhere on "Target Model Initialization" and press 'm' from the keyboard.
 
 #### To run the Source Code the following requirements must be Satisfied
 
